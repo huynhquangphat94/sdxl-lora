@@ -1,0 +1,12 @@
+{
+    "prompt": {
+        "negative_prompt": "smooth, plastic, blurry, grainy, low-resolution, deep-fried, oversaturated",
+        "width": 1024,
+        "height": 1024,
+        "scale": 8,
+        "sample_steps": 20,
+        "subset": {
+            "prompt": "girl portrait, smile, in the garden, summer day"
+        }
+    }
+}
